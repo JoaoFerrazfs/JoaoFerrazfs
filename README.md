@@ -3,7 +3,7 @@
 
 #### Criei este perfil no GITHUB com o objetivo de publicar meus primeiros projetos :alien:
 
-- Atualmente estou focado em apreder PHP, mas ainda sim ainda pesquiso sobre outras linguagens interessantes :computer: 
+- Atualmente estou focado em aprender PHP, mas ainda sim pesquiso sobre outras linguagens interessantes :computer: 
 - Espero a cada novo projeto evoluir mais e quem me seguir aqui vai poder acompanhar meu desenvolvimento :punch:
 
 #### Estou aberto a ideias de como me tornar melhor , então segue meu contato :+1:
