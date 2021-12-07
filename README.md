@@ -1,4 +1,5 @@
-### Oi Pessoal! 👋 👋  
+### Olá meu nome é João! 👋
+#### Bem vindo ao meu perfil GitHub 👋
 
 
 #### Criei este perfil no GITHUB com o objetivo de publicar meus primeiros projetos :alien:
