@@ -1,44 +1,18 @@
-### Olá meu nome é João! 👋
-#### Bem vindo ao meu perfil GitHub 👋
+# 💫 About Me:
+Olá meu nome é João! 👋<br>Bem vindo ao meu perfil GitHub 👋<br>Aqui publico meus projetos pessoais e faço vários testes👽<br>Atualmente estou focado em aprender PHP,Laravel,MongoDB e Bootstrap mas ainda sim pesquiso sobre outras linguagens interessantes 💻<br>Espero a cada novo projeto evoluir mais👊
 
 
-#### Criei este perfil no GITHUB com o objetivo de publicar meus primeiros projetos :alien:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joaofzs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joaoferrazpedro/) 
 
-- Atualmente estou focado em aprender PHP,Laravel,MongoDB e Bootstrap mas ainda sim pesquiso sobre outras linguagens interessantes :computer: 
-- Espero a cada novo projeto evoluir mais e quem me seguir aqui vai poder acompanhar meu desenvolvimento :punch:
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoaoFerrazfs&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoFerrazfs&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrazfs&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## Tecnologias que ja tive contato
+---
+[![](https://visitcount.itsvg.in/api?id=JoaoFerrazfs&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"   width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"  width="50" height="50" /> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"  width="50" height="50" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"   width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="50" height="50" />
-
-## Meus contatos:
-<div>
-  <a href="https://instagram.com/joaofzs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaoferrazpedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- 
- <p>:mailbox: Joaoferrazp@gmail.com</p>
-  
-</div>
-
-## Estatísticas
-
-<div>
-<a href="https://github.com/JoaoFerrazfs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrazfs&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFerrazfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
