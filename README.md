@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá meu nome é João! 👋<br>Bem vindo ao meu perfil GitHub 👋<br>Aqui publico meus projetos pessoais e faço vários testes👽<br>Atualmente estou focado em aprender PHP,Laravel,MongoDB e Bootstrap mas ainda sim pesquiso sobre outras linguagens interessantes 💻<br>Espero a cada novo projeto evoluir mais👊
+Olá meu nome é João! 👋<br>Bem vindo ao meu perfil GitHub 👋<br>Aqui publico meus projetos pessoais e faço vários testes👽<br>Atualmente estou focado em aprender PHP,Laravel,MongoDB e Bootstrap mas ainda sim pesquiso sobre outras linguagens interessantes 💻<br>Busco evoluir sempre!👊
 
 
 ## 🌐 Socials:
